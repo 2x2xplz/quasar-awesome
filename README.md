@@ -62,12 +62,14 @@
 | [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
 | [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
+| [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api) | Sample project using [Speech Web API](https://developer.mozilla.org/pt-BR/docs/Web/API/SpeechSynthesis) | v1.0.0-rc.7 |
 | Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
 | QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
 | Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
@@ -167,3 +169,7 @@
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
 | Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
+| SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
+| Timesheet | [github](https://github.com/valasek/timesheet), [website](https://timesheet.simplesw.net) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
+| Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
+| Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
